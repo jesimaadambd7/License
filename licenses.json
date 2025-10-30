@@ -1,14 +1,1 @@
-[
-  {
-    "token": "eyJleHAiOjE3NTU4MDgzNDgxODIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.4ce65850f6d210999c657939543b8fe0b476cbbec8e66ab4105d5a40d7d2aa07",
-    "created": "2025-10-30",
-    "exp": "2025-08-21",
-    "max_uses": 1
-  },
-  {
-    "token": "eyJleHAiOjE3NjQ0NDg2NTg2NTQsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.c7ca074174dea89da031fcc9dda2599c4cbc850b77d5ce76e4b41bfbdd2aa471",
-    "created": "2025-10-30",
-    "exp": "2025-11-29",
-    "max_uses": 1
-  }
-]
+[]
