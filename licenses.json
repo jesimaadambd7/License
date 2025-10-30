@@ -1,8 +1,8 @@
 [
   {
-    "token": "eyJleHAiOjE3NjQzNjI2Njg4NzAsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.c9117611ed2df502500c9ad5cfe4ec44d092d68d2fdf1f858d0047476a73d0bc",
+    "token": "eyJleHAiOjE3NjE2ODQyNjg4NzAsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.82d8fcd411d4a9783bbecc565b280667fc0081205ac26f8f1459c838f6ab888b",
     "created": "2025-10-30",
-    "exp": "2025-11-28",
+    "exp": "2025-10-28",
     "max_uses": 1
   }
 ]
