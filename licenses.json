@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "token": "eyJleHAiOjE3NjE5NDI2NDU1MTgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.e7ca48ee9c195965120284578cff9cfd73c667dfa212e12396d865c7a5df7305",
+    "created": "2025-10-30",
+    "exp": 1761942645518,
+    "max_uses": 1,
+    "used_count": 0
+  }
+]
