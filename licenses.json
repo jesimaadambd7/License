@@ -28,9 +28,15 @@
     "created": "2025-11-01",
     "exp": "2025-11-16",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "1db4854d51b176350f9581dd44c038f5397e58d65e4fea07a3a0e65547e4aa23"
-    ]
+    "used_count": 0,
+    "devices": []
+  },
+  {
+    "token": "eyJleHAiOjE3NjMyNzc1NjU1ODgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.cadfa7595b5a6b04350b8295fce087ef334c445c71c8eba32720c117d44932c6",
+    "created": "2025-11-01",
+    "exp": "2025-11-16",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": []
   }
 ]
