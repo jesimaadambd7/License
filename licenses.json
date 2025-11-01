@@ -28,10 +28,8 @@
     "created": "2025-11-01",
     "exp": "2025-11-16",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "1db4854d51b176350f9581dd44c038f5397e58d65e4fea07a3a0e65547e4aa23"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjMyNzc1NjU1ODgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.cadfa7595b5a6b04350b8295fce087ef334c445c71c8eba32720c117d44932c6",
@@ -46,9 +44,15 @@
     "created": "2025-11-01",
     "exp": "2025-11-16",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "ffd779c98c66993ce0d1ef7aa8fd97861a0285cdef8d27d4f132ec9385f4d993"
-    ]
+    "used_count": 0,
+    "devices": []
+  },
+  {
+    "token": "eyJleHAiOjE3NjMyNzgyNzUxNjQsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.9d6861f52c146e127fcdb8b1be0a89bd99884ac916531ab7886bb33ca92a4cd9",
+    "created": "2025-11-01",
+    "exp": "2025-11-16",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": []
   }
 ]
