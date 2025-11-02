@@ -97,7 +97,7 @@
     "created": "2025-11-01",
     "exp": "2025-11-02",
     "max_uses": 75,
-    "used_count": 64,
+    "used_count": 65,
     "devices": [
       "2128138ac88264a3f9ccb9cfc9c61dd623abfb35236a35fd0f5522c1751cdde4",
       "6dabaa0d80ccc5b27ce45c374caed3f9eff2d45319234e3d44b9198d08aeb1ec",
@@ -162,7 +162,8 @@
       "790419b95e11becc9b7a87dc6d8a96fac3ac62513fa7326ddf1d36dc5390883c",
       "e4d1f469546ed56bd4949bfb5ae313afd97c6bb98b20f406026a10135765e83e",
       "391364cf6cbc836e93f76a9a1d6460fb52546877e9bcdca9831a579ead9f8db7",
-      "89bc05312f617121d542253022cbc7f20c1a611367a96fecaa5ac49c8bca0b43"
+      "89bc05312f617121d542253022cbc7f20c1a611367a96fecaa5ac49c8bca0b43",
+      "cdd0a292403e87a0a5d140b8387f3e9b42ba4a0d1ea1c4b0458d4099a6ea6fe1"
     ]
   },
   {
