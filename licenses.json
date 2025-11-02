@@ -92,8 +92,10 @@
     "created": "2025-11-01",
     "exp": "2025-11-02",
     "max_uses": 75,
-    "used_count": 0,
-    "devices": []
+    "used_count": 1,
+    "devices": [
+      "2128138ac88264a3f9ccb9cfc9c61dd623abfb35236a35fd0f5522c1751cdde4"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjIxMDEzNjExMjUsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.99e79b51164be52344eea79634a485a664d7c013fbc99f8c872020d671cdde88",
