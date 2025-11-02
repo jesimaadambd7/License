@@ -190,5 +190,13 @@
     "max_uses": 1,
     "used_count": 0,
     "devices": []
+  },
+  {
+    "token": "eyJleHAiOjE3NjQ2OTcyNTQ1MjEsIm1heF91c2VzIjoyLCJ1c2VyIjoidXNlciJ9.47c3127a6cd2c0547207e2479f084d932c4a4a0656891bf5fba291e18f959b39",
+    "created": "2025-11-02",
+    "exp": "2025-12-02",
+    "max_uses": 2,
+    "used_count": 0,
+    "devices": []
   }
 ]
