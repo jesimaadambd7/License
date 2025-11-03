@@ -287,7 +287,9 @@
     "created": "2025-11-03",
     "exp": "2025-11-18",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": []
+    "used_count": 1,
+    "devices": [
+      "80a0752ba7af3ccd1cc323cf6fd12b5a38a684233e1b8e0f380a6d1d5b504f7f"
+    ]
   }
 ]
