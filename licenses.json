@@ -60,9 +60,10 @@
     "created": "2025-11-01",
     "exp": "2025-11-16",
     "max_uses": 2,
-    "used_count": 1,
+    "used_count": 2,
     "devices": [
-      "ec0908c40256221c69e903166bafe115d35032bc271181fc5b4d37a8aad3c99e"
+      "ec0908c40256221c69e903166bafe115d35032bc271181fc5b4d37a8aad3c99e",
+      "ffd779c98c66993ce0d1ef7aa8fd97861a0285cdef8d27d4f132ec9385f4d993"
     ]
   },
   {
