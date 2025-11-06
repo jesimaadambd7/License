@@ -480,7 +480,9 @@
     "created": "2025-11-06",
     "exp": "2025-11-17",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": []
+    "used_count": 1,
+    "devices": [
+      "cceb78519d10953cc50ba76fe160b44268ecc52a7eaa3adcd1b16323a488ed73"
+    ]
   }
 ]
