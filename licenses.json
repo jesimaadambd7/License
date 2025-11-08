@@ -408,14 +408,6 @@
     "devices": []
   },
   {
-    "token": "eyJleHAiOjE3NjM2MTc0ODM1MzgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.258033362e79d9c8bb92a1d4826c4f92e892a03f223139e098e6f1e79f1f8e36",
-    "created": "2025-11-05",
-    "exp": "2025-11-20",
-    "max_uses": 1,
-    "used_count": 0,
-    "devices": []
-  },
-  {
     "token": "eyJleHAiOjE3NjM2MTgwNTY2NTgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.d78b2c2f686a6495a1b1e8614ca622c7e3bba0d330c7c6132bd42504ddee2a05",
     "created": "2025-11-05",
     "exp": "2025-11-20",
