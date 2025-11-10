@@ -164,40 +164,32 @@
     "created": "2025-11-02",
     "exp": "2025-11-17",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "c41349000370182d6954f24e01c94a3b91074387b3cfc1a610eb613fd2bec11c"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM0MDA3NjAwMzIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.cda1363629dd19408b6ba183806d51181784095639857b216f35431d0bb0d249",
     "created": "2025-11-02",
     "exp": "2025-11-17",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "6dabaa0d80ccc5b27ce45c374caed3f9eff2d45319234e3d44b9198d08aeb1ec"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM0MDA4NTQ3ODQsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.50368e02cd25ae6757119b53c75000dced763762122b5046b6647aee056f832a",
     "created": "2025-11-02",
     "exp": "2025-11-17",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "7fafea7d1e12eb3837d503a5a8df28f8e8818fdd8a5c2ebcf695eea097607a4b"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM0MDExNDM1NjEsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.ade36772f697ac613416735e23b6698e12215ccd73172d60403b115021d52f34",
     "created": "2025-11-02",
     "exp": "2025-11-17",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "8b13f1d935215894f751879c02dbb37669f0d78baf5a761e565c0e0ca8b95ec9"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjQ2OTcyNTQ1MjEsIm1heF91c2VzIjoyLCJ1c2VyIjoidXNlciJ9.47c3127a6cd2c0547207e2479f084d932c4a4a0656891bf5fba291e18f959b39",
@@ -300,10 +292,8 @@
     "created": "2025-11-03",
     "exp": "2025-11-18",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "a1be25dba699a8633ad62eb735cf6e48829c419a300a9f6ba59093cf8ede01c3"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM0Njc4Njk0MzAsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.7514cfca5653d9d123411a2562ff30e276409ffa0ac0a0d111d3e3744171c59c",
@@ -318,10 +308,8 @@
     "created": "2025-11-03",
     "exp": "2025-11-18",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "82277bf6775cff9746a640c9fef087a7493aa53885f309506b207dbbd2bb6ce4"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM0ODIyMzk3MjEsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.b9b275213a0f0b3538622405f9bd3d1744360ef8782d73d27d52a05c3fe868e3",
@@ -408,10 +396,8 @@
     "created": "2025-11-05",
     "exp": "2025-11-20",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "838034b5117627d8702dcf33609ca0f1b66cdac7ee15ea07565779ecfdaeeb94"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM2MTQ5MTQ0NzIsIm1heF91c2VzIjozLCJ1c2VyIjoidXNlciJ9.5d29d25594457a6d2a1645cb6f81a66ddb9a5510da5f9e648865e783d0ce007d",
@@ -450,10 +436,8 @@
     "created": "2025-11-05",
     "exp": "2025-11-18",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "1ceeb8648976945c977cd9c7f5d8bc6c1bdda75c6df2ed2bae541f6c47c71ddd"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM2NTMyMTA4OTUsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.81b6fd52f686c11fe73fbc706bdafa76bc342aa1f5645c659113953f2902208f",
@@ -508,10 +492,8 @@
     "created": "2025-11-07",
     "exp": "2025-11-22",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "b707f4af1d526b1e17f7b0bf273591eac79683a6515736ecbb3066cb67be944b"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM4MzM3ODQ3MTUsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.28f4454cb57b9296ae3ace08c79f72e907d730f3f17ec81659eb4192e19bd64b",
@@ -534,20 +516,16 @@
     "created": "2025-11-07",
     "exp": "2025-11-22",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "12019f195bd76800a17a8d216c3cb2e3d6ed911824cb855dc6264fc90eac4692"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM4Mzc1NjM4MzMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.0cf6650c104c2095ea306b71363b51305b78d0f2b5b2f8a911bc628d8d33e36d",
     "created": "2025-11-07",
     "exp": "2025-11-22",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "c1583cfb0a9d0283acfcd982c83dfaedab1fdec2da672ff1f04d7f902f7317e0"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM4Mzc1ODExNzcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.b70bf2bf1dd7d5b0e4120350c86c7076ace0f77851ecac336bf97af921e6f6be",
@@ -570,10 +548,8 @@
     "created": "2025-11-07",
     "exp": "2025-12-07",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "1c34f8c0ca87ef83eafd0ffc4f2068e4b275ff9582907be82db5e806ea035f56"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM4ODIwMTI1MDMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.ef382dd53d6a804feb585aa969c07cf0bd15170cf8a450b00dfa2105a8dace0c",
@@ -588,20 +564,16 @@
     "created": "2025-11-08",
     "exp": "2025-11-20",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "6a5acfa90111a620a4a7866b7ccce31dc4086b677a6bd0ba0ca85c7b5a827d41"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM5MTIyNzQ4NzAsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.e49d691f382c1370170bf0690597ac4e62dde20e18eb5ed57fe50d05a5208f26",
     "created": "2025-11-08",
     "exp": "2025-11-23",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "ebb0483abaa4f817cef4cf1b81930922bcadae2ed514210c6aac27c1b473e6aa"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM5MTI0NzA2MTEsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.2206d76d48462ae0ad0c0f570414701321ed1f8426ecad93c8f1a66198d3d0f3",
@@ -616,10 +588,8 @@
     "created": "2025-11-08",
     "exp": "2025-11-23",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "75d4ccc62c86a8e85779fdcb7fc7ce2f17647d722420514e5ddc9d37949a7f85"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM5MTU4NTIxMjAsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.e7586ea2c4852861f74b69fa28f4279e8c93e13484b3363e582f6335e5de7a74",
@@ -642,20 +612,16 @@
     "created": "2025-11-08",
     "exp": "2025-11-23",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "346c60f0c246da39c36a2f74fe8758b02ca13e69b7d965d66708620462d2b64f"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM2NTQwMTUzOTcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.20010420aa197d2c38adbce0810dee205130954208332a0d7d43fb1599bd52ba",
     "created": "2025-11-09",
     "exp": "2025-11-20",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "5c26adbbdc1dec203bbf6eb5d6093f29662dda066cc0deb6b747eb4e444c4e97"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjQwNDM4NDk4NDgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.12e6145894b0c6853016c10b843dcaba35629287408a3a1400f4c507fec1b0a8",
@@ -670,33 +636,35 @@
     "created": "2025-11-10",
     "exp": "2025-11-25",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "2992875b38915a50c102cb746a6687a29219dfdf8802e88de8568550a10e45a1"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjQwNTk0Mzg2MDMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.89abf354a897e092ea3995a94e7028db8043fcc4e16586fa0f50904063ee003f",
     "created": "2025-11-10",
     "exp": "2025-11-25",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "be08a2097e4e7d79322785e202b804ee50e748fc7469eb0e936041c699cea8d4"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM4MjkxNDY5NjIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.9fd53af70a26dab35b224ab24ee7965456982eca34b2235202737b5d700db4dc",
     "created": "2025-11-10",
     "exp": "2025-11-22",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "d9aafee81f5df14582194f8e4bbc649b9f3953df1c3bf909e5ccd7b7aa3ad14d"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjQwODg5MTkwOTcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.90a8c0c81b0ec678ef4890cfe491dfbacaaba4feb8db6ebacc41c7d256b3942c",
+    "created": "2025-11-10",
+    "exp": "2025-11-25",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": []
+  },
+  {
+    "token": "eyJleHAiOjE3NjQwOTE5MTA3MjcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.acb2776d60844e311fceb4fd955a7faba6b3deb38f8e918bdcbb1fcd1df67fbd",
     "created": "2025-11-10",
     "exp": "2025-11-25",
     "max_uses": 1,
