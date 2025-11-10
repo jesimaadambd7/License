@@ -666,11 +666,9 @@
   {
     "token": "eyJleHAiOjE3NjQwOTQ2MTI4ODUsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.c1774d8887765a3fa672b129048daae633faa65eaf0c82d87a0401fd71c4652d",
     "created": "2025-11-10",
-    "exp": "2025-11-15",
+    "exp": "2025-11-10",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "1a11f81eb75e69424cbb1d5462b49a76af0a0ee35c914deb841aca60852658a3"
-    ]
+    "used_count": 0,
+    "devices": []
   }
 ]
