@@ -383,14 +383,12 @@
     "exp": "2025-11-27",
     "max_uses": 1,
     "used_count": 1,
-    "devices": [
-      "190dfd08ad08fc1f3e5660a5471d96b6f26293bede0f65ae16559833e9c060d5"
-    ]
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM1NzM5NzU2NTcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.c150d61a75bc35a36267b34cc026f9b92c3d89da3298459302465b06aeb10ef6",
     "created": "2025-11-04",
-    "exp": "2025-11-11",
+    "exp": "2025-11-27",
     "max_uses": 1,
     "used_count": 1,
     "devices": []
@@ -451,9 +449,7 @@
     "exp": "2025-11-12",
     "max_uses": 1,
     "used_count": 1,
-    "devices": [
-      "1270191a6a2f5fbf5ccc3de32c328df547b259a87e10e86f196c3f1105c9182b"
-    ]
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjMzOTcwNTUzNjYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.bbfbe62c734552cf904e269e7848ab25fb50f9ab1e1d3fd46ff2935031651fdd",
