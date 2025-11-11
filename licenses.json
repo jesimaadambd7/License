@@ -507,9 +507,7 @@
     "exp": "2025-11-22",
     "max_uses": 1,
     "used_count": 1,
-    "devices": [
-      "7e7d287cd7b1d21a59aa1feb6c3de87274278611d0e7b7f98349dec708467105"
-    ]
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM4MzM5MDM1MjMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.18e5fa4e35475f0ddd4c3ec6ca7e8b8b8c8a4a82bcab1de997f68ac239274e9e",
@@ -701,6 +699,14 @@
     "token": "eyJleHAiOjE3NjQxNTAxMjE3ODEsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.e58d7b71bd60e5dab9e628af1625f8169f887e10a606eb6d6dc6b5ab44923baf",
     "created": "2025-11-11",
     "exp": "2025-11-26",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": []
+  },
+  {
+    "token": "eyJleHAiOjE3NjU0NTE5MDg0NDEsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.e9493aed1ad23b0c2cc76f8126793f574ea08cca06e46b7a9a1886394c1c07bc",
+    "created": "2025-11-11",
+    "exp": "2025-12-11",
     "max_uses": 1,
     "used_count": 0,
     "devices": []
