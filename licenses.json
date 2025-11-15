@@ -124,10 +124,8 @@
     "created": "2025-11-02",
     "exp": null,
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "7fafea7d1e12eb3837d503a5a8df28f8e8818fdd8a5c2ebcf695eea097607a4b"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjMzOTQzNTcxNjIsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.918b275a6b9d57d211ff4dd6a19fba0f540f982c4cec02d2d3b60161079c5a6e",
@@ -392,10 +390,8 @@
     "created": "2025-11-04",
     "exp": "2025-11-19",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "02ed5fadf35b852dfe185d93c35b6afd6e7ac7e021b0020862273901b5d8fb72"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM2MTQ3MzkxNDYsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.434b17c7195ee57978cc15f148fdef3aa67884b52de81623eb0a2662158222d7",
@@ -421,9 +417,7 @@
     "exp": "2025-11-20",
     "max_uses": 1,
     "used_count": 1,
-    "devices": [
-      "33041a8f31f61b05dfb5f37c5b15f32cfc9e203e487c8642ff5ec5d4db041d8b"
-    ]
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM2MTg4Njk5MzEsIm1heF91c2VzIjozLCJ1c2VyIjoidXNlciJ9.7fff293fe1bb311b6a2147b070ef1937f98e563cc8668104118113d747302269",
@@ -521,9 +515,7 @@
     "exp": "2025-11-22",
     "max_uses": 1,
     "used_count": 1,
-    "devices": [
-      "da03fb3c70915014f80d87ae2914dcd6870c3fc72d8d1221850b125dbd0dab5b"
-    ]
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjM4Mzc1NDU0MjUsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.5bc52ac17455ebc9e87396d2ec373d82b9d543ae3df8feb70a663988d30dab8b",
@@ -763,6 +755,14 @@
   },
   {
     "token": "eyJleHAiOjE3NjQ1MTY4OTk3OTAsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.cb9ced6824bceaf6e105435d680f2e57467cfdcda6ef878024da2e5132712fc3",
+    "created": "2025-11-15",
+    "exp": "2025-11-30",
+    "max_uses": 1,
+    "used_count": 0,
+    "devices": []
+  },
+  {
+    "token": "eyJleHAiOjE3NjQ1MTg1NTk5MzAsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.bc54105b4aa3a0ea7bcf2262df2517ded7b4fd29b1b78f44ed9e336475c5d798",
     "created": "2025-11-15",
     "exp": "2025-11-30",
     "max_uses": 1,
