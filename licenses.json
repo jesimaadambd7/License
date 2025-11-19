@@ -535,7 +535,9 @@
     "exp": "2025-11-28",
     "max_uses": 1,
     "used_count": 1,
-    "devices": []
+    "devices": [
+      "0c41029257f317db1d762284ea59d6b7a25e6691ec709b94a30be966e9dd7c84"
+    ]
   },
   {
     "token": "eyJleHAiOjE3NjQ1MTg1NTk5MzAsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.bc54105b4aa3a0ea7bcf2262df2517ded7b4fd29b1b78f44ed9e336475c5d798",
