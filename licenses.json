@@ -8,16 +8,6 @@
     "devices": []
   },
   {
-    "token": "eyJleHAiOjE3NjM2NTQwMTUzOTcsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.20010420aa197d2c38adbce0810dee205130954208332a0d7d43fb1599bd52ba",
-    "created": "2025-11-09",
-    "exp": "2025-11-24",
-    "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "5c26adbbdc1dec203bbf6eb5d6093f29662dda066cc0deb6b747eb4e444c4e97"
-    ]
-  },
-  {
     "token": "eyJleHAiOjE3NjQwNDM4NDk4NDgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.12e6145894b0c6853016c10b843dcaba35629287408a3a1400f4c507fec1b0a8",
     "created": "2025-11-10",
     "exp": "2025-11-25",
@@ -154,20 +144,16 @@
     "created": "2025-11-19",
     "exp": "2025-11-26",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "c41349000370182d6954f24e01c94a3b91074387b3cfc1a610eb613fd2bec11c"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjQ0MzMwMjQ2NzUsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.a2141c2d5fcae4a8190d006520be25039d5b11e85d0e594850d326429bae195b",
     "created": "2025-11-21",
     "exp": "2025-11-29",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "f95851e3a829c91fb1902b37e7fa0481a4b2e609f37c4a602c12443ef8d894c1"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjQ1MDAzNTMyMjgsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.cafba6781f21852d374f367535b20efa53b39363f505dabaab32d5fdaffbc156",
@@ -198,19 +184,15 @@
     "created": "2025-11-23",
     "exp": "2025-12-07",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "c8436aa96de75fb08c0c9e0d582df7e5d6de4a4604d176e69a08ca8a085ef3de"
-    ]
+    "used_count": 0,
+    "devices": []
   },
   {
     "token": "eyJleHAiOjE3NjUwOTY2MDIxMTMsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.87f036f410ff2374316eec79551c3625fd77ae52dec2ab5fa616603711f8bb80",
     "created": "2025-11-23",
     "exp": "2025-12-07",
     "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "12019f195bd76800a17a8d216c3cb2e3d6ed911824cb855dc6264fc90eac4692"
-    ]
+    "used_count": 0,
+    "devices": []
   }
 ]
