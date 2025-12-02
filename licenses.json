@@ -8,14 +8,6 @@
     "devices": []
   },
   {
-    "token": "eyJleHAiOjE3NjM4Mjc0NTAxODUsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.09cffb51316b5218f6f000601b0bfee6604a27480cae0504c383179c095e6fd2",
-    "created": "2025-11-18",
-    "exp": "2025-11-22",
-    "max_uses": 1,
-    "used_count": 0,
-    "devices": []
-  },
-  {
     "token": "eyJleHAiOjE3NjQxNzIwNTg3NDQsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.6b937f4a8a30b98d10ee8fb7a4741d7f0572d74ebeda0da3881e4ccdeb485827",
     "created": "2025-11-19",
     "exp": "2025-11-26",
